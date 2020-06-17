@@ -1,0 +1,6 @@
+composer.lock
+.editorconfig
+.gitattributes
+.vscode
+vendor
+web
